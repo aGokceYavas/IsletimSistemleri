@@ -26,7 +26,7 @@ int main( void )
 {
     printf("Sistem başlatılıyor...\n");
 
-    // 1. scheduler hazirlik (listeyi oku vs)
+    // 1. scheduler hazirlik 
     vSchedulerInit();
 
     // 2. simulasyonu baslat
